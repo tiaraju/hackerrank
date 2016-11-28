@@ -39,6 +39,16 @@ public class LinkedList<T> {
 		return counter;
 	}
 	
+//	//method implemented to solve hackerrank problem
+//	public void Print(Node head){
+//		if(head == null) return;
+//		Node aux = head;
+//		while(aux != null){
+//			System.out.println(aux.data);
+//			aux = aux.next;
+//		}
+//	}
+	
 	@Override
 	public String toString(){
 		String result = "";

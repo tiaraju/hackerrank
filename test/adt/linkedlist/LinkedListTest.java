@@ -36,4 +36,5 @@ public class LinkedListTest {
 		list.addNode(new Node<Integer>(2));
 		Assert.assertEquals(list.toString(), expected);
 	}
+
 }
