@@ -1,4 +1,4 @@
-package tda.linkedlist;
+package adt.linkedlist;
 
 public class Node<T> {
 

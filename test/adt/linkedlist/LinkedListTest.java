@@ -1,11 +1,11 @@
-package test;
+package adt.linkedlist;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import tda.linkedlist.LinkedList;
-import tda.linkedlist.Node;
+import adt.linkedlist.LinkedList;
+import adt.linkedlist.Node;
 
 public class LinkedListTest {
 	LinkedList<Integer> list;
